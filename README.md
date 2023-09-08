@@ -1,5 +1,8 @@
 # Simple Elementor widget
 
-this wordpress plugin is made just for help elementor developers to easy make widget :)
+this WordPress plugin is made just to help elementary developers easily make widgets :)
  
 
+## License
+
+MIT
